@@ -1,0 +1,19 @@
+<header>
+    <h1>Sistema de Ventas Panchita</h1>    
+    <div class="boton">
+        <a href="login.jsp">
+            <div class="botonlogin">
+                <i class="fas fa-sign-in-alt"></i>&nbsp;
+                Iniciar Sesión
+            </div>
+        </a>
+    </div>
+    <div class="boton">
+        <a href="registro.jsp">
+            <div class="botonlogin">
+                <i class="fas fa-user-plus"></i>&nbsp;
+                Registrarse
+            </div>
+        </a>
+    </div>
+</header>
